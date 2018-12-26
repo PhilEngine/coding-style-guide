@@ -1,5 +1,7 @@
 # C++ Style Guide
 
+Version 0.1
+
 ### 文件名定义
 
 - 均小写,可用下划线隔开
